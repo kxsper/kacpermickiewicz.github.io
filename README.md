@@ -16,13 +16,14 @@ This project takes a dirty Python generated CSV export (`Dirty_Gallery_Sales_Dat
 - Occasional invalid unit prices (`Price_GBP` ≤ 0)
 - String inconsistencies (leading/trailing spaces)
 
-**Goal achieved:**
+**Goals achieved:**
 - Single clean table: `Cleaned_Gallery_Sales_Data`
 - 420 unique transactions (from original 460 rows)
 - Unique `Sale_ID` primary key
 - Full `YYYY-MM-DD` dates preserved
 - Repaired monetary values
 - Standardised categories
+- Generated key business insights using cleaned data
 
 ## Key Cleaning Steps Performed
 
