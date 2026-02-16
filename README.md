@@ -51,15 +51,15 @@ This project takes a dirty Python generated CSV export (`Dirty_Gallery_Sales_Dat
 
 | File                                   | Description                                      |
 |----------------------------------------|--------------------------------------------------|
-| `Dirty_Gallery_Sales_Data.csv`         | Original messy generated file                    |
+| `Dirty_Gallery_Sales_Data.csv`         | Original dirty generated file                    |
 | `Cleaned_Gallery_Sales_Data.csv`       | Cleaned table                                    |
 | `Clean_Gallery_Sales_Data.sql`         | Full SQL script to create the clean table        |
-| `Generate_Dirty_Gallery_Sales_Data.py` | Full Python script to gennerate the dirty data   |
-| `README.md`                            | This file                                        |
+| `Generate_Dirty_Gallery_Sales_Data.py` | Full Python script to gennerate the dirty file   |
+| `README.md`                            | Current file                                     |
 
 ## How to Use
 
-1. Load the original CSV into your database as table `Dirty_Gallery_Sales_Data`  
+1. Load the original dirty CSV into your database as table `Dirty_Gallery_Sales_Data.csv`  
    (SQLite, PostgreSQL, MySQL, DuckDB, etc.)
 
 2. Run the cleaning script:
