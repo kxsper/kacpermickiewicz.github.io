@@ -64,4 +64,4 @@ This project takes a dirty CSV export (`Dirty_Gallery_Sales_Data.csv`) from an a
 
 2. Run the cleaning script:
    ```bash
-   sqlite3 gallery.db < Cleaned_Gallery_Sales_Data.sql
+   sqlite3 gallery.db < Clean_Gallery_Sales_Data.sql
