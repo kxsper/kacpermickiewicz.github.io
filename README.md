@@ -48,6 +48,68 @@ This project takes a dirty Python generated CSV export (`Dirty_Gallery_Sales_Dat
   Negative quantities (real returns/refunds)  
   Future dates (2025–2026 entries appear valid in context)
 
+## Total Revenue
+
+£891,728.05
+
+Represents total sales value across all transactions.
+
+## Number of Transactions
+
+420 transactions
+
+Reflects total completed sales after data validation.
+
+## Average Order Value (AOV)
+
+£2,123.16
+
+The average value of each transaction, indicating strong high-value purchases.
+
+## Customer Mix
+Buyer Type	Count
+New	286
+Repeat	134
+
+68% New / 32% Repeat
+
+Indicates strong acquisition performance with an opportunity to improve customer retention.
+
+## Return Rate
+
+1.9% of transactions
+
+Low return rate suggests high customer satisfaction and strong product fit.
+
+## Payment Method Distribution
+Method	Share
+Credit Card	74.5%
+Cash	16.9%
+Bank Transfer	8.6%
+
+Digital payments dominate, supporting online and card-first sales strategies.
+
+## Revenue Performance Insights
+Top 5 Artists by Revenue
+Artist	Revenue (£)
+Craig Alan	86,707.66
+Alexander Weaver	75,787.71
+Doug Hyde	73,308.67
+Rozanne Bell	68,620.41
+Jeff Rowland	64,500.11
+
+A small group of artists generates a significant share of total revenue, highlighting a Pareto effect.
+
+## Revenue by Age Group
+Age Group	Revenue (£)
+35–44	273,938.54
+25–34	193,058.80
+45–54	176,827.02
+18–24	99,054.06
+55+	82,612.21
+
+Customers aged 25–44 generate the majority of revenue, making them the core target demographic.
+
 ## Key Business Insights 
 **1. Strong Revenue Performance**
 
@@ -91,6 +153,19 @@ Buyers aged 25–44 drive most revenue.
 
 Marketing Implication:
 - Focus exhibitions, social media campaigns, and advertising toward this demographic.
+
+## Recommended KPIs for Ongoing Monitoring
+
+This dataset supports long-term business tracking using the following KPIs:
+
+- KPI	Description
+- Total Revenue	Overall financial performance
+- Average Order Value	Customer spending behaviour
+- Repeat Purchase Rate	Retention strength
+- Artist Revenue Share	Portfolio balance
+- Return Rate	Product satisfaction
+- Revenue by Age Group	Market segmentation
+- Payment Mix	Transaction preferences
 
 ## Files in this Repository
 
