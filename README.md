@@ -126,13 +126,11 @@ This highlights opportunities for:
 
 Top artists generate a disproportionate share of revenue.
 While beneficial, this creates dependency risk if key artists leave.
-
 - Recommendation: Diversify promotion across mid-performing artists.
 
 **4. Digitally-Driven Sales**
 
 Over 74% of payments use credit cards, confirming:
-
 - Strong digital readiness
 - Potential for online expansion
 - Low reliance on cash
@@ -140,23 +138,18 @@ Over 74% of payments use credit cards, confirming:
 **5. High Customer Satisfaction**
 
 The low return rate (1.9%) indicates:
-
 - Accurate product descriptions
 - Strong buyer satisfaction
 - Good pricing alignment
 
 **6. Clearly Defined Core Customer Segment**
-
 Buyers aged 25–44 drive most revenue.
-
 Marketing Implication:
 - Focus exhibitions, social media campaigns, and advertising toward this demographic.
 
 ## Recommended KPIs for Ongoing Monitoring
 
 This dataset supports long-term business tracking using the following KPIs:
-
-- KPI	Description
 - Total Revenue	Overall financial performance
 - Average Order Value	Customer spending behaviour
 - Repeat Purchase Rate	Retention strength
