@@ -67,7 +67,6 @@ Reflects total completed sales after data validation.
 The average value of each transaction, indicating strong high-value purchases.
 
 ## Customer Mix
-Buyer Type Count
 - New	286
 - Repeat	134
 
