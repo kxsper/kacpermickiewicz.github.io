@@ -14,7 +14,7 @@ This project takes a dirty CSV export (`Dirty_Gallery_Sales_Data.csv`) from an a
 - Mixed age group formats (e.g. "35 - 44", "45to54", "55 plus", "UNK")
 - Missing or suspicious `Total_GBP` values
 - Occasional invalid unit prices (`Price_GBP` ≤ 0)
-- Minor string inconsistencies (leading/trailing spaces)
+- String inconsistencies (leading/trailing spaces)
 
 **Goal achieved:**
 - Single clean table: `Cleaned_Gallery_Sales_Data`
@@ -22,7 +22,7 @@ This project takes a dirty CSV export (`Dirty_Gallery_Sales_Data.csv`) from an a
 - Unique `Sale_ID` primary key
 - Full `YYYY-MM-DD` dates preserved
 - Repaired monetary values
-- Standardized categories
+- Standardised categories
 
 ## Key Cleaning Steps Performed
 
@@ -37,10 +37,10 @@ This project takes a dirty CSV export (`Dirty_Gallery_Sales_Data.csv`) from an a
   - Back-calculated `Price_GBP` when invalid (≤ 0 but money moved)  
   - Rounded consistently to 2 decimal places
 
-- **Standardization & Cleaning**  
+- **Standardisation & Cleaning**  
   - Trimmed all text fields  
   - Light artist name fixes (e.g. "Andrei P" → "Andrei Protsouk")  
-  - Simplified age group normalization (35-44, 45-54, 55+, Unknown, etc.)  
+  - Simplified age group normalisation (35-44, 45-54, 55+, Unknown, etc.)  
   - Filtered out clearly invalid rows
 
 - **Kept intentionally**  
