@@ -45,7 +45,7 @@ Insights & KPIs (Revenue, AOV, retention, artist performance)
 ## Key Cleaning Steps Performed
 
 - **Deduplication**  
-  Removed logical duplicates by preferring non-`_dup` versions (using window function + `rn = 1` filter)
+  Removed logical duplicates by preferring non `_dup` versions (using window function + `rn = 1` filter)
 
 - **Date Handling**  
   Ensured `SaleDate` is consistently stored as full `YYYY-MM-DD` text (explicit string validation & preservation)
@@ -160,13 +160,13 @@ The low return rate (1.9%) indicates:
 - Good pricing alignment
 
 **6. Clearly Defined Core Customer Segment**
-Buyers aged 25–44 drive most revenue.
+Buyers aged between 25–44 drive the most revenue.
 Marketing Implication:
 - Focus exhibitions, social media campaigns, and advertising toward this demographic.
 
 ## Recommended KPIs for Ongoing Monitoring
 
-This dataset supports long-term business tracking using the following KPIs:
+This dataset supports long term business tracking using the following KPIs:
 - Total Revenue	Overall financial performance
 - Average Order Value	Customer spending behaviour
 - Repeat Purchase Rate	Retention strength
