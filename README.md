@@ -61,7 +61,7 @@ Insights & Business Recommendations
 - Standardised categories
 - Generated insights based on revenue performance
 - Generated general key business insights
-- Generated other insights & useful KPI's
+- Generated other insights & useful KPIs
 
 ## Key Cleaning Steps Performed
 
