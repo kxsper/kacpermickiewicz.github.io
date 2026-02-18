@@ -113,7 +113,7 @@ Insights & Business Recommendations
 - Bank Transfer: 8.6%  
   Digital payments dominate, supporting online and card-first sales strategies.
 
-### Revenue Performance Insights
+# Revenue Performance Insights
 
 ## Top 5 Artists by Revenue
 ![Top 5 Artists by Revenue](images/top_artists_revenue.png)
